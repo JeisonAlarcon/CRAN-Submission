@@ -158,7 +158,7 @@ Tenga cuidado ya que la última línea inicializa las comprobaciones de `R-hub v
 
 Obtendrá como resultado la siguiente ejecución automatizada en `GitHub Actions` (*puede variar dependiendo la personalización del archivo `YAML` y las VM elegidas*):
 
-![](assets\images\R-Hub.jpg)
+![](https://github.com/JeisonAlarcon/CRAN-Submission/blob/main/assets/images/R-Hub.jpg)
 
 ___
 ## :bookmark: Buenas Practicas | [goodpractice](https://ropensci-review-tools.github.io/goodpractice/)
@@ -321,11 +321,11 @@ Luego de estar de acuerdo con la versión que se publicará y de qué **no obten
 - Ready to submit `UnalR (1.0.0)` to CRAN?
 
 > :anger: Tenga presente que para este paso ya debe estar al día con los cambios, es decir, no tener nada en el staging area y que todo este rastreado con el último commit :eyes:. En caso contrario obtendrá el siguiente error:
-![](assets\images\ErrorGitChecks.jpg)
+![](https://github.com/JeisonAlarcon/CRAN-Submission/blob/main/assets/images/ErrorGitChecks.jpg)
 
 Finalmente se creará/compilará el `.tar.gz` :card_file_box: de su paquete en una ruta temporal y se cargará dicho archivo al [CRAN](https://cran.r-project.org/submit.html), tenga presente que se le enviará de manera inmediata un email de aceptación de política interna :email: al correo previamente mostrado, deberá aceptarlo de manera inmediata.
 
-![](assets\images\Submit2CRAN.jpg)
+![](https://github.com/JeisonAlarcon/CRAN-Submission/blob/main/assets/images/Submit2CRAN.jpg)
 
 Y eso es todo, :tada: **su paquete se encontrará en proceso de validación y publicación** :sparkles:
 
